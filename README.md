@@ -5,7 +5,7 @@ It is an AR experience created using SparkAR. It show magic ring over the hand o
 ## :camera:Screenshots  
 
 
-[!hand_close](https://github.com/gautamgupta1811/AR_MagicRing/blob/master/hand_close.png)  
+![hand_close](https://github.com/gautamgupta1811/AR_MagicRing/blob/master/hand_close.png)  
   
     
-[!hand_far](https://github.com/gautamgupta1811/AR_MagicRing/blob/master/hand_far.png)    
+![hand_far](https://github.com/gautamgupta1811/AR_MagicRing/blob/master/hand_far.png)    
