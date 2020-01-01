@@ -1,2 +1,7 @@
 # AR_MagicRing
-Show magic ring whenever hand is detected 
+
+It is an AR experience created using SparkAR. It show magic ring over the hand of user which also changes its size as hand is moved towards or far from camera or SparkAR player.  
+
+## :camera:Screenshots  
+
+
